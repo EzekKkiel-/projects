@@ -1,4 +1,6 @@
-projects
-========
+PHP OO
+============================
 
-Projetos
+Arquivos de Estudo de PHP Orientado à Objetos
+
+
